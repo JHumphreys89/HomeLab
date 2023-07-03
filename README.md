@@ -7,6 +7,7 @@ Directory details my first Linux homelab experience and covers:
 <pre>
 • <a href="https://github.com/JHumphreys89/Linux/wiki/Oracle-Cloud-OCI-Wiki">Oracle Cloud Free Tier</a> - Compute documetation
 • Red Hat Enterprise Linux (RHEL) docmentation
+• RHEL on VirtualBox
 • Ansible documentation
 • Joining RHEL to a domain controller running in Windows Server 2019
 </pre>
