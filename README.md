@@ -27,7 +27,7 @@ Directory details my first Linux homelab experience and covers:
 
 # Tools
 ## Security
-<img src="https://github.com/JHumphreys89/HomeLab/assets/115595085/870ca8c5-0420-4253-be18-d11533382735" width="300px" height="auto">
+<img src="https://github.com/JHumphreys89/HomeLab/assets/115595085/a5565013-8eda-496c-b7ce-0d3eeee87f4e" width="300px" height="auto">
 
 <pre>
 • Splunk Enterprise for SIEM
