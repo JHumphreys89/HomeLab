@@ -7,8 +7,8 @@ This repo is dedicated to HomeLab information and includes a Wiki documenting di
 Directory details my first Linux homelab experience and covers:
 <br>
 <pre>
-• <a href="https://github.com/JHumphreys89/Linux/wiki/Oracle-Cloud-OCI-Wiki">Oracle Cloud Free Tier</a> - Compute documetation
-• Red Hat Enterprise Linux (RHEL) docmentation
+• <a href="https://github.com/JHumphreys89/Linux/wiki/Oracle-Cloud-OCI-Wiki">Oracle Cloud Free Tier</a> - Compute documentation
+• Red Hat Enterprise Linux (RHEL) documentation
 • RHEL on VirtualBox
 • Joining RHEL to a domain controller running in Windows Server 2019
 </pre>
@@ -32,7 +32,7 @@ Directory details my first Linux homelab experience and covers:
 
 <pre>
 • Ansible Documentation
-• <a href="https://github.com/JHumphreys89/HomeLab/wiki/Terraform-Homelab-‐-In-Progress">Terraform Documention</a>
+• <a href="https://github.com/JHumphreys89/HomeLab/wiki/Terraform-Homelab-‐-In-Progress">Terraform Documentation</a>
 </pre>
 
 ## Security
